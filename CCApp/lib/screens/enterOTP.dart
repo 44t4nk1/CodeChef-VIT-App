@@ -40,7 +40,7 @@ class _OTPScreenState extends State<OTPScreen> {
       body: Column(
         children: [
           SizedBox(
-            height: 50,
+            height: 52,
           ),
           Container(
             padding: EdgeInsets.only(left: 20),
